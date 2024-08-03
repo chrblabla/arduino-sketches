@@ -6,7 +6,7 @@ A simple sketch to display the current price from Tibber.
 
 Hardware used:
 
-- NodeMCU ESP8266
+- ESP8266 board
 - SSD1306 OLED display
 
 Definitions to be provided in a `config.h` file:
